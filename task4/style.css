@@ -1,0 +1,8 @@
+/* CSS to create a vertical list */
+a {
+    display: block;       /* Makes links appear on new lines (vertical) */
+    margin-bottom: 10px;  /* Space between links */
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
